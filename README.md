@@ -2,7 +2,7 @@ Laravel Contact Form Package
 ============================
 
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-contact-form-package?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/issues)
-[![Stars](https://img.shields.io/github/issues/techmahedy/laravel-contact-form-package?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/stargazers)
+[![Stars](https://img.shields.io/github/stars/techmahedy/laravel-contact-form-package?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/stargazers)
 
 This will send email to admin and save contact data to database
 
