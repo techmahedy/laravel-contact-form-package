@@ -1,0 +1,26 @@
+{
+    "name": "codechief/contact",
+    "description": "This will send email to admin and save contact query to database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cocechief",
+            "email": "mail@codechief.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Codechief\\Contact\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codechief\\Contact\\ContactServiceProvider"
+            ]
+        }
+    }
+}
