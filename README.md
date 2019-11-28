@@ -1,7 +1,6 @@
 Laravel Contact Form Package
 ============================
 
-[![Latest Version](https://img.shields.io/github/release/techmahedy/laravel-contact-form-package.svg?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/releases)
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-contact-form-package.svg?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/issues)
 [![Stars](https://img.shields.io/github/stars/techmahedy/laravel-contact-form-package.svg?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/stargazers)
 
