@@ -1,5 +1,5 @@
-Laravel Contact Form Package
-============================
+Laravel jQuery Ajax Contact Form Package
+========================================
 
 [![Issues](https://img.shields.io/github/issues/techmahedy/laravel-contact-form-package.svg?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/issues)
 [![Stars](https://img.shields.io/github/stars/techmahedy/laravel-contact-form-package.svg?style=flat-square)](https://github.com/techmahedy/laravel-contact-form-package/stargazers)
@@ -8,8 +8,10 @@ This will send email to admin and save contact data to database
 
 - Simple interface for building contact form.
 - Using this form , user can conatct with admin via email.
+- Validate clint side data before submit request with instant error message.
 - User can customize this form as what ever looks you want.
 - This will send email to admin and save contact data to database.
+- User also can take their own message to his mail. 
 
 ## Installing contact-package
 
